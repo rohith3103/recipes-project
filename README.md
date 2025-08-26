@@ -2,6 +2,10 @@
 
 This is a full-stack recipe application built for the NxtWave AI/ML role assessment. It features a Python (Flask) backend and a React.js frontend.
 
+## About Me
+
+Highly motivated Computer Science graduate with a specialization in Data Science, proven ability to architect and independently engineer complex deep learning systems from concept to deployment. Proficient in Python, Java, and AI frameworks like PyTorch and TensorFlow, with hands-on internship experience and a strong foundation in Data Structures and Algorithms. Adept at transforming complex datasets into actionable insights and building scalable, end-to-end software solutions.
+
 ## Features
 
 - Parse and store recipe data from a JSON file in a database.
@@ -10,8 +14,11 @@ This is a full-stack recipe application built for the NxtWave AI/ML role assessm
 
 ## Tech Stack
 
-- **Backend:** Python, Flask, SQLite
-- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Programming Languages:** C, Java, Python, SQL
+- **AI & Data Science:** Deep Learning, Keras, Machine Learning, NumPy, Pandas, PyTorch, TensorFlow
+- **Web Technologies:** CSS3, Flask, HTML5, JavaScript, .NET Full Stack
+- **Databases:** MongoDB, MySQL, SQLite
+- **Developer Tools:** Git, MediaPipe, OpenCV
 
 ## How to Run the Application
 
