@@ -12,6 +12,10 @@ Highly motivated Computer Science graduate with a specialization in Data Science
 - RESTful API with endpoints for pagination, sorting, and advanced searching.
 - A user-friendly frontend to display, filter, and view details of recipes.
 
+## Project Reference
+
+This project was developed based on the requirements and guidelines provided in the **"Securin Assignment Reference Document"**. The implementation adheres to the specified data handling, API endpoints, and frontend design principles, while using a Python and React tech stack tailored for the AI/ML role.
+
 ## Tech Stack
 
 - **Programming Languages:** C, Java, Python, SQL
